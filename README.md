@@ -1,6 +1,6 @@
 # Bharat Insight - My Take on AI-Driven Analytics
 
-> Hey! I'm [Your Name] and this is my submission for the Regrip India Frontend Assignment.
+> Hey! I'm Naveen Kumar and this is my submission for the Regrip India Frontend Assignment.
 > 
 > I spent the last 48 hours building this analytics platform, and I'm pretty excited about how it turned out. Let me walk you through what I built and why I made certain decisions.
 
@@ -133,12 +133,12 @@ I like keeping things organized - makes it easier to find stuff later.
 
 ## Features I'm Proud Of
 
-✅ **100K rows** - Smooth scrolling, no lag
-✅ **AI Chat** - Actually understands your data context
-✅ **Cmd+K** - Quick command palette (try it!)
-✅ **Mobile Responsive** - Works on phones too
-✅ **Keyboard Navigation** - Arrow keys work in the grid
-✅ **Loading States** - No awkward blank screens
+**100K rows** - Smooth scrolling, no lag
+**AI Chat** - Actually understands your data context
+**Cmd+K** - Quick command palette (try it!)
+**Mobile Responsive** - Works on phones too
+**Keyboard Navigation** - Arrow keys work in the grid
+**Loading States** - No awkward blank screens
 
 ## What I'd Do With More Time
 
@@ -239,6 +239,6 @@ Thanks for checking out my project!
 
 ---
 
-**Built by [Your Name]**
+**Built by [Naveen Kumar]**
 **For Regrip India Frontend Engineering Assignment**
 **March 2026**
